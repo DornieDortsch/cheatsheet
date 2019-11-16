@@ -1,3 +1,5 @@
+https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/ config email per repository git config --global user.useconfigonly true
+
 https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
 http://rogerdudler.github.io/git-guide/index.de.html
